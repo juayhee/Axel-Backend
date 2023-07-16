@@ -30,7 +30,8 @@ var NAVTREE =
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", null ],
         [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ]
+        [ "Variables", "namespacemembers_vars.html", null ],
+        [ "Typedefs", "namespacemembers_type.html", null ]
       ] ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -38,8 +39,7 @@ var NAVTREE =
       [ "Class Index", "classes.html", null ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ]
+        [ "Functions", "functions_func.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -56,7 +56,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_oauth_manager_8cpp.html"
+"OauthManager_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
